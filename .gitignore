@@ -1,0 +1,5 @@
+build/vendor/
+*.tgz
+package/
+node_modules/
+.DS_Store
